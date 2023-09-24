@@ -3,10 +3,10 @@
    padding: 0px;
 }
 body{
-    color: aliceblue;
+    color: rgb(17, 17, 17);
 }
 header{
-    background-color: rgb(210, 195, 30);
+    background-color: rgb(246, 243, 210);
     display: flex;
     justify-content: space-around;
     padding: 1px;
@@ -35,7 +35,7 @@ main div {
 }
 
 footer{
-    background-color: blueviolet;
+    background-color: rgb(226, 199, 251);
     text-align: center;
     
 }
