@@ -1,0 +1,44 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+body{
+    color: aliceblue;
+}
+header{
+    background-color: rgb(210, 195, 30);
+    display: flex;
+    justify-content: space-around;
+    padding: 1px;
+    margin-bottom: 12px;
+}
+
+header p {   
+    display: flex;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+main{
+    display: flex;
+    justify-content: center;
+    
+}
+
+main div {
+    background-color: rgb(100, 115, 249);
+    display: flex;    
+    width: 300px;
+    margin: 120px; 
+    justify-content: center;
+    
+}
+
+footer{
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+
+
+
