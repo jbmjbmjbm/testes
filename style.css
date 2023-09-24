@@ -31,11 +31,12 @@ main div {
     width: 300px;
     margin: 120px; 
     justify-content: center;
+    color: aliceblue;
     
 }
 
 footer{
-    background-color: rgb(226, 199, 251);
+    background-color: rgb(248, 37, 37);
     text-align: center;
     color: aliceblue;
     
