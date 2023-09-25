@@ -18,9 +18,14 @@ header p {
     
 }
 
+main{
+    background-color: aqua;
+}
+
 main section{
     display: flex;
     justify-content: center;
+    
     
 }
 
