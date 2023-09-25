@@ -8,18 +8,16 @@ body{
 
 header{
     background-color: rgb(246, 243, 210);
-    display: flex;
-    justify-content: space-around;
-    padding: 1px;
-    margin-bottom: 12px;
+    display: flex;    
+    
 }
 
-header p {   
-    display: flex;
-    align-items: center;
+header p {       
+    padding: 100px 300px;
     font-family: 'Times New Roman', Times, serif;
     
 }
+
 main section{
     display: flex;
     justify-content: center;
